@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+stockfish
+python-chess
+requests
+sqlalchemy
+psycopg2-binary
+matplotlib
+python-dotenv
+networkx 
+numpy
