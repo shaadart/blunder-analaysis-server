@@ -6,6 +6,10 @@ A production-grade FastAPI server engineered for computational chess analysis, i
 
 This system bridges the gap between algorithmic precision and practical decision-making, implementing context-aware classification that distinguishes genuine tactical oversights from acceptable strategic simplifications.
 
+
+<img width="1866" height="977" alt="image" src="https://github.com/user-attachments/assets/bb783b2e-e7f7-4b84-b895-160e53b73ef8" />
+
+
 ---
 
 ## Table of Contents
@@ -755,6 +759,9 @@ This project is licensed under the MIT License. See [LICENSE](../LICENSE) for co
 - Win probability calculations and evaluation metrics
 
 ---
+
+
+<img width="1866" height="977" alt="image" src="https://github.com/user-attachments/assets/6796f979-b83b-4125-922a-3e81b8470519" />
 
 **System Status**: Production-Ready  
 **Maintainer**: Development Team  
