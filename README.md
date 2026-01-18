@@ -1,4 +1,4 @@
-# PushupChess Backend API
+# Blunder Analysis API
 
 ## Overview
 
