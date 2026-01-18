@@ -1,6 +1,6 @@
 # Multi-Axis Evaluation (MAE) for Chess
 
-**Stockfish tells you what to play. MAE tells you whether you can actually play it.**
+**Minimize regret, not centipawn loss. They are not the same thing.**
 
 
 <img width="1866" height="977" alt="image" src="https://github.com/user-attachments/assets/b7dd375a-5ca1-4c7a-8b4d-ac3594a8bfe9" />
